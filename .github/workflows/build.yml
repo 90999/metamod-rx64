@@ -21,7 +21,7 @@ jobs:
 
     env:
       solution: 'msvc/metamod.sln'
-      buildPlatform: 'x64'
+      buildPlatform: 'Win32'
       buildRelease: 'Release'
 
     steps:
